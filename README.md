@@ -1,5 +1,5 @@
 
-<div align="center" style="border:1px solid red">
+<div style="text-align: center; border:1px solid red">
 
 <div style="display: inline-block">
     <a href="https://github.com/junaid-usman-dev/laravel-crud-generator/issues">
