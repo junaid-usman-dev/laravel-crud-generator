@@ -1,0 +1,2 @@
+
+# Simple Laravel CRUD Generator.
