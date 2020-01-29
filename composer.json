@@ -1,0 +1,22 @@
+{
+    "name": "junaid/crud",
+    "description": "It will create, update, and delete customer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Junaid",
+            "email": "junaidkickpick@gmail.com"
+        }
+    ],
+
+    "minimum-stability": "dev",
+
+    "require": {},
+
+    "autoload-dev": {
+        "psr-4": {
+            "Junaid\\Crud\\": "src/"
+        }
+    }
+}
