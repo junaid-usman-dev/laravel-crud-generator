@@ -1,2 +1,5 @@
 
-# Simple Laravel CRUD Generator.
+## Simple Laravel CRUD Generator.
+
+# Version 
+    v1.0.0
