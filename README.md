@@ -1,8 +1,6 @@
 
 <p align="center">
 
-
-
 <a href="https://github.com/junaid-usman-dev/laravel-crud-generator/issues">
     <img alt="GitHub issues" src="https://img.shields.io/github/issues/junaid-usman-dev/laravel-crud-generator?style=plastic">
 </a>
@@ -14,7 +12,7 @@
 <a href="https://github.com/junaid-usman-dev/laravel-crud-generator"><img alt="GitHub license" src="https://img.shields.io/github/license/junaid-usman-dev/laravel-crud-generator"></a>
 
 
-
+</p>
 
 ## Simple Laravel CRUD Generator.
 
