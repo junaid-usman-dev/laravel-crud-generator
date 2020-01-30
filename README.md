@@ -1,32 +1,14 @@
 
-<div text-align: center; border:1px solid red>
+![Packagist](https://img.shields.io/badge/Packagist-v1.1.2-green.svg?style=flat-square)
+![Stars](https://img.shields.io/badge/https://github.com/junaid-usman-dev/laravel-crud-generator/stargazers?style=flat-square)
 
 
-    <a href="https://github.com/junaid-usman-dev/laravel-crud-generator/issues">
-        <img alt="GitHub issues" src="https://img.shields.io/github/issues/junaid-usman-dev/laravel-crud-generator?style=plastic">
-    </a>
-
-
-
-    <a href="https://github.com/junaid-usman-dev/laravel-crud-generator/network">
-        <img alt="GitHub forks" src="https://img.shields.io/github/forks/junaid-usman-dev/laravel-crud-generator">
-    </a>
-
-
-    <a href="https://github.com/junaid-usman-dev/laravel-crud-generator/stargazers">
-        <img alt="GitHub stars" src="https://img.shields.io/github/stars/junaid-usman-dev/laravel-crud-generator">
-    </a>
+![Packagist](https://img.shields.io/badge/Packagist-v1.1.2-green.svg?style=flat-square)
+![Licence](https://img.shields.io/badge/Licence-MIT-green.svg?style=flat-square)
+![StyleCI](https://img.shields.io/badge/StyleCI-pass-green.svg?style=flat-square)
 
 
 
-    <a href="https://github.com/junaid-usman-dev/laravel-crud-generator">
-        <img alt="GitHub license" src="https://img.shields.io/github/license/junaid-usman-dev/laravel-crud-generator">
-    </a>
-
-
-</div>
-
-## Simple Laravel CRUD Generator.
 
 # Version 
 #    v1.0.2
