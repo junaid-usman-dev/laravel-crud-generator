@@ -8,5 +8,6 @@
 ![License] (https://img.shields.io/github/license/junaid-usman-dev/laravel-crud-generator?style=for-the-badge)
 
 
+
 ## Version 
 #    v1.0.2
