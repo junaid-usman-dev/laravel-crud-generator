@@ -1,29 +1,28 @@
 
 <div text-align: center; border:1px solid red>
 
-<div display: inline-block !important >
+
     <a href="https://github.com/junaid-usman-dev/laravel-crud-generator/issues">
         <img alt="GitHub issues" src="https://img.shields.io/github/issues/junaid-usman-dev/laravel-crud-generator?style=plastic">
     </a>
-</div>
 
-<div display: inline-block !important >
+
+
     <a href="https://github.com/junaid-usman-dev/laravel-crud-generator/network">
         <img alt="GitHub forks" src="https://img.shields.io/github/forks/junaid-usman-dev/laravel-crud-generator">
     </a>
-</div>
 
-<div display: inline-block !important >
+
     <a href="https://github.com/junaid-usman-dev/laravel-crud-generator/stargazers">
         <img alt="GitHub stars" src="https://img.shields.io/github/stars/junaid-usman-dev/laravel-crud-generator">
     </a>
-</div>
 
-<div display: inline-block !important >
+
+
     <a href="https://github.com/junaid-usman-dev/laravel-crud-generator">
         <img alt="GitHub license" src="https://img.shields.io/github/license/junaid-usman-dev/laravel-crud-generator">
     </a>
-</div>
+
 
 </div>
 
