@@ -1,7 +1,8 @@
 
 ![Packagist](https://img.shields.io/badge/Packagist-v1.1.2-green.svg?style=flat-square)
-![Stars](https://img.shields.io/badge/https://github.com/junaid-usman-dev/laravel-crud-generator/stargazers?style=flat-square)
 
+
+![Issues](https://img.shields.io/github/issues/junaid-usman-dev/laravel-crud-generator?style=for-the-badge)
 
 ![Packagist](https://img.shields.io/badge/Packagist-v1.1.2-green.svg?style=flat-square)
 ![Licence](https://img.shields.io/badge/Licence-MIT-green.svg?style=flat-square)
