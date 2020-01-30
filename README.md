@@ -1,15 +1,12 @@
 
-![Packagist](https://img.shields.io/badge/Packagist-v1.1.2-green.svg?style=flat-square)
+# Simple Laravel CRUD Generator
 
+<p align="center">
+![Issues] (https://img.shields.io/github/issues/junaid-usman-dev/laravel-crud-generator?style=for-the-badge)
+![Forks] (https://img.shields.io/github/forks/junaid-usman-dev/laravel-crud-generator?style=for-the-badge)
+![Stars] (https://img.shields.io/github/stars/junaid-usman-dev/laravel-crud-generator?style=for-the-badge)
+![License] (https://img.shields.io/github/license/junaid-usman-dev/laravel-crud-generator?style=for-the-badge)
+</p>
 
-![Issues](https://img.shields.io/github/issues/junaid-usman-dev/laravel-crud-generator?style=for-the-badge)
-
-![Packagist](https://img.shields.io/badge/Packagist-v1.1.2-green.svg?style=flat-square)
-![Licence](https://img.shields.io/badge/Licence-MIT-green.svg?style=flat-square)
-![StyleCI](https://img.shields.io/badge/StyleCI-pass-green.svg?style=flat-square)
-
-
-
-
-# Version 
+## Version 
 #    v1.0.2
